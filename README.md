@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **game development**
 
-- 📫 How to reach me **erenkcr2004@gmail.com**
+- 📫 How to reach me **erenkacr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
