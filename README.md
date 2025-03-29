@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delkevic&label=Profile%20views&color=0e75b6&style=flat" alt="delkevic" /> </p>
 
 
-- 🌱 I’m currently learning **C#, Unity**
+- 🌱 I’m currently learning **React, Golang and Unity**
 
-- 💬 Ask me about **game development**
+- 💬 Ask me about **game development and web development**
 
 - 📫 How to reach me **erenkacr@gmail.com**
 
